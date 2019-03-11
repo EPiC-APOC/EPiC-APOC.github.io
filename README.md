@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Midnight
 
-You can use the [editor on GitHub](https://github.com/EPiC-APOC/EPiC-APOC.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Open source content for Midnight theme. Theme was first designed / developed for GitHub Pages and is available for download, forking and using anywhere else on the web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Midnight Theme](http://f.cl.ly/items/2G0Q031t2K3h0F2i3V1E/Screen%20Shot%202012-12-25%20at%208.38.55%20AM.png)
 
-### Markdown
+The Midnight Pages demo is [here](http://mattgraham.github.com/midnight)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Note Additional font characters for OpenSans typeface can be found in [v1.1](https://github.com/mattgraham/Midnight/archive/v1.1.zip)
 
-```markdown
-Syntax highlighted code block
+Theme by [Matt Graham](http://madebygraham.com), twitter [@mattgraham](http://twitter.com/#!/mattgraham)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EPiC-APOC/EPiC-APOC.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/)
