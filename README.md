@@ -2,9 +2,7 @@
 <h3>I've No More<B> F***s </B>To Give!</h3>
 <hr>
 
-<BR>
-<B>&#8595;  &#10597;    &#10515;    &#10507;    &#10225;    &#8691;     &#8681;     &#8675;     &#8659;     &#8661;     &#8650;     &#8645;     &#8616;     &#8615;     &#8609;</B>
-<BR>
+&#8675;<BR>
 
 <h2>(Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;</h2>
 <h4>Current Version: 1.4.0</h4>
