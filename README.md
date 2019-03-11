@@ -1,13 +1,22 @@
-# Midnight
+# (Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;
+## Current Version: 1.4.0
 
-Open source content for Midnight theme. Theme was first designed / developed for GitHub Pages and is available for download, forking and using anywhere else on the web.
+Instructions for adding this repo:
 
-![Midnight Theme](http://f.cl.ly/items/2G0Q031t2K3h0F2i3V1E/Screen%20Shot%202012-12-25%20at%208.38.55%20AM.png)
 
-The Midnight Pages demo is [here](http://mattgraham.github.com/midnight)
+<p align="left">
+  <ul>
+    <li>Go to the Kodi file manager.</li>
+    <li>Click on "Add source"</li>
+    <li>The path for the source is <code>https://xvbmc.000webhostapp.com/REPOsitory/</code></li>
+    ( <B>...</B>and give it the name "WhateverTheFuck you want" <B>;-p</B> )
+    <li>Go to "Addons"</li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, <BR>select "WhateverTheFuck you want", and install<B>:</B> <a href="https://bitbucket.org/toetu/repository/raw/master/REPOsitory/zips/repository.toetu/repository.toetu-1.4.0.zip">repository.toetu-1.4.0.zip</a></li>
+        <li style="margin: 0 0 0 20px;">browse current REPO &#39;.zip-files&#39; @<a href="https://bitbucket.org/toetu/repository/raw/master/REPOsitory/zips/repository.toetu/" target="_blank">Bitbucket</a></li>
+    <li>Go back to Addons install, but this time, select "Install from repository"</li>
+    <li>Select the: <B>"</B> <i>(Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;</i> <B>"</B></li>
+    <li>To use this <B>EPiC repo</B>, see "Addons" &mdash; "install from repository" and choose this repo.</li>
+  </ul>
+</p>
 
-*Note Additional font characters for OpenSans typeface can be found in [v1.1](https://github.com/mattgraham/Midnight/archive/v1.1.zip)
-
-Theme by [Matt Graham](http://madebygraham.com), twitter [@mattgraham](http://twitter.com/#!/mattgraham)
-
-[Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/)
+## Enjoy!
