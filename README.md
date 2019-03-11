@@ -1,13 +1,11 @@
 # (Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;
 ## Current Version: 1.4.0
 
-        <div id="title">
-          <h1>EPiC-APOC.github.io</h1>
-          <h5>I've No More<B> F***s </B>To Give!</h5>
-          <hr>
-          <span class="credits left"><a href="https://github.com/EPiC-APOC">EP<B>i</B>C</a> Project(s) and stuff</span>
-          <span class="credits right">Hosted on Git Pages &mdash; Theme by <a href="https://github.com/mattgraham" target="_blank">mattgraham</a></span>
-        </div>
+<h1>EPiC-APOC.github.io</h1>
+<h5>I've No More<B> F***s </B>To Give!</h5>
+<hr>
+<span class="credits left"><a href="https://github.com/EPiC-APOC">EP<B>i</B>C</a> Project(s) and stuff</span>
+<span class="credits right">Hosted on Git Pages &mdash; Theme by <a href="https://github.com/mattgraham" target="_blank">mattgraham</a></span>
 
 <u>Instructions for adding this repo</u><B>:</B>
 
