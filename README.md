@@ -1,12 +1,12 @@
 <h1>EPiC-APOC.github.io</h1>
-<h3>I've No More<B> F***s </B>To Give!</h3>
+<h4>I've No More<B> F***s </B>To Give!</h4>
 <hr>
 
 <BR>
 <BR>
 
 <h2>(Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;</h2>
-<h3>Current Version: 1.4.0</h3>
+<h4>Current Version: 1.4.0</h4>
 
 <u>Instructions for adding this repo</u><B>:</B>
 
@@ -25,4 +25,4 @@
   </ul>
 </p>
 
-<h5>Enjoy!</h5>
+<h4>Enjoy!</h4>
