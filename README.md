@@ -1,7 +1,8 @@
 <h1>EPiC-APOC.github.io</h1>
-<h4>I've No More<B> F***s </B>To Give!</h4>
+<h3>I've No More<B> F***s </B>To Give!</h3>
 <hr>
 
+<BR>
 <BR>
 
 # (Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;
@@ -24,4 +25,4 @@
   </ul>
 </p>
 
-### Enjoy!
+<h3>Enjoy!</h3>
