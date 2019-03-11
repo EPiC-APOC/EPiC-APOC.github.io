@@ -6,7 +6,7 @@
 <BR>
 
 <h2>(Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;</h2>
-## Current Version: 1.4.0
+<h4>Current Version: 1.4.0<h4>
 
 <u>Instructions for adding this repo</u><B>:</B>
 
