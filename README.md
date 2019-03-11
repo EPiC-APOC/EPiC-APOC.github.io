@@ -16,7 +16,7 @@
     <li>The path for the source is <code>https://xvbmc.000webhostapp.com/REPOsitory/</code></li>
     ( <B>...</B>and give it the name "WhateverTheFuck you want" <B>;-p</B> )
     <li>Go to "Addons"</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, <BR>select "WhateverTheFuck you want", and install<B>:</B> <a href="https://bitbucket.org/toetu/repository/raw/master/REPOsitory/zips/repository.toetu/repository.toetu-1.4.0.zip">repository.toetu-1.4.0.zip</a></li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, <BR>select "WhateverTheFuck you want", and install<B>:</B> <a href="http://bit.ly/repoToetu140">repository.toetu-1.4.0.zip</a></li>
        <B>&#187; </B>browse current REPO &#39;.zip-files&#39; @<a href="http://bit.ly/ToetuREPO" target="_blank">Bitbucket</a></li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the: <B>"</B> <i>(Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;</i> <B>"</B></li>
