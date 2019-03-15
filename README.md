@@ -5,7 +5,7 @@
 &#8675;<BR>
 
 <h2>(Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;</h2>
-<h4>Current Version: 1.5.0</h4>
+<h4>Current Version: 1.6.0</h4>
 
 <u>Instructions for adding this repo</u><B>:</B>
 
@@ -16,7 +16,7 @@
     <li>The path for the source is <code>https://xvbmc.000webhostapp.com/REPOsitory/</code></li>
     ( <B>...</B>and give it the name "WhateverTheFuck you want" <B>;-p</B> )
     <li>Go to "Addons"</li>
-    <li>In Addons, install an addon from zip.  When it asks for the location, <BR>select "WhateverTheFuck you want", and install<B>:</B> <a href="http://bit.ly/repoToetu150">repository.toetu-1.5.0.zip</a></li>
+    <li>In Addons, install an addon from zip.  When it asks for the location, <BR>select "WhateverTheFuck you want", and install<B>:</B> <a href="http://bit.ly/repoToetu160">repository.toetu-1.6.0.zip</a></li>
        <B>&#187; </B>browse current REPO &#39;.zip-files&#39; @<a href="http://bit.ly/ToetuREPO" target="_blank">Bitbucket</a></li>
     <li>Go back to Addons install, but this time, select "Install from repository"</li>
     <li>Select the: <B>"</B> <i>(Add-ons)<B> REPO</B>sitory &#39;et resurrectionis erimus&#39;</i> <B>"</B></li>
